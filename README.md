@@ -6,7 +6,7 @@ Colored Icon Kit adds your player colors to icons in the Icon Kit, Shops, Achiev
 Have feedback or encountered a bug? Report it [here](https://github.com/sofabeddd/Colored-Icon-Kit/issues/new).
 
 ## Latest Changes
-- Port to 2.206 (Thanks by Lumer)
+- Port to 2.206 (Thanks to Lumer)
 
 ## Credits
 **HideLocks:** [TechStudent10](https://github.com/TechStudent10/HideLocks)  
